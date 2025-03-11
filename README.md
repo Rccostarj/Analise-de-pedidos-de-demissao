@@ -1,4 +1,4 @@
-###📊 Análise Estatística de Fatores que Levam à Demissão dos Funcionários
+📊 Análise Estatística de Fatores que Levam à Demissão dos Funcionários
 
 📌 Descrição do Projeto
 

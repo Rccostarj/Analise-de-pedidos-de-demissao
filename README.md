@@ -13,17 +13,17 @@ Aqui você encontra meus projetos e experimentos com Análise de Dados, Google C
 🛠 Tecnologias e Ferramentas
 
 📌 Linguagens e Frameworks
-	🐍 Python (Pandas, NumPy, Matplotlib)\n
-	📊 Power BI (DAX, Modelagem de Dados)
+🐍 Python (Pandas, NumPy, Matplotlib)
+📊 Power BI (DAX, Modelagem de Dados)
 
 📌 Cloud e Big Data
-	☁️ Google Cloud Platform (GCP)
-	🗂️ Google Cloud Storage (GCS)
-	🔄 IAM (Gerenciamento de Acessos)
+☁️ Google Cloud Platform (GCP)
+🗂️ Google Cloud Storage (GCS)
+🔄 IAM (Gerenciamento de Acessos)
 
 📌 Outras Ferramentas
-	📝 Jupyter Notebook & Google Colab
-	🛠️ GitHub para versionamento de projetos
+📝 Jupyter Notebook & Google Colab
+🛠️ GitHub para versionamento de projetos
 
 
 💡 Projetos Destacados

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-repositorio/main/imagem-post-inteligencia-de-dados.jpeg" width="500">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
 </p>
 
 <h2 align="center">👋 Olá, eu sou Rafael Correa!</h2>

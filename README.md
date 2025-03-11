@@ -1,10 +1,17 @@
-🖐️ Olá, eu sou Rafael Correa!
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+</p>
 
-📊 Análise de Dados | Python | GCP | Power BI
-🎯 Transformando dados em insights estratégicos!
+<h2 align="center">👋 Olá, eu sou Rafael Correa!</h2>
 
-🚀 Tecnologias que utilizo
+<p align="center">
+  📊 <strong>Análise de Dados | Python | GCP | Power BI</strong> 🎯<br>
+  Transformando dados em insights estratégicos!
+</p>
 
+---
+
+## 🚀 Tecnologias que utilizo
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -13,6 +20,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+---
+
+## 📫 Onde me encontrar?
 <p align="center">
   <a href="https://www.linkedin.com/in/rafael-correa-66407a31b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -24,7 +34,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
-
 
 🔥 Sobre este repositório
 

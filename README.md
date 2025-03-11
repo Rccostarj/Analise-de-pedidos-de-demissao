@@ -31,7 +31,7 @@ O **Projeto Capivara** utiliza **Google Cloud Platform (GCP)** para armazenament
 
 ## Autor
 - Rafael Costa  
-- [LinkedIn](https://www.linkedin.com/in/rafael-corna-66407a31b/) 📌
+- [LinkedIn](https://www.linkedin.com/in/rafael-correa-66407a31b/) 📌
 
 ---
 

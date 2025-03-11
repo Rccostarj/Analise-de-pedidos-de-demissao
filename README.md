@@ -13,7 +13,7 @@ Aqui você encontra meus projetos e experimentos com Análise de Dados, Google C
 🛠 Tecnologias e Ferramentas
 
 📌 Linguagens e Frameworks
-	🐍 Python (Pandas, NumPy, Matplotlib)
+	🐍 Python (Pandas, NumPy, Matplotlib)\n
 	📊 Power BI (DAX, Modelagem de Dados)
 
 📌 Cloud e Big Data
